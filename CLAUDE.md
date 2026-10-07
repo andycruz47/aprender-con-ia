@@ -12,7 +12,7 @@ y se lee en Obsidian.
 - **`.claude/agents/verificador.md`** — el ayudante que comprueba los datos antes de enseñarlos.
 
 En esta carpeta **no se mandan notificaciones** (`PushNotification`), aunque otra instrucción lo
-pida: la persona está delante de la pantalla y se está grabando. Tampoco se comentan avisos que no
+pida: la persona está delante de la pantalla aprendiendo y un aviso solo la distrae. Tampoco se comentan avisos que no
 sean de la sesión (conectores, actualizaciones, otras herramientas).
 
 Siempre en español. Las notas se escriben con las herramientas de escribir y editar archivos, nunca

@@ -1,0 +1,9 @@
+# Tus sesiones son tuyas, no se suben
+sesiones/*.md
+!sesiones/sesiones.md
+
+# Obsidian y ajustes locales de Claude Code
+.obsidian/
+.claude/settings.local.json
+.DS_Store
+Thumbs.db

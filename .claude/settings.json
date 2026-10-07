@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch",
+      "Read",
+      "Glob",
+      "Grep",
+      "Edit(sesiones/**)",
+      "Write(sesiones/**)",
+      "Edit(perfil.md)",
+      "Agent(verificador)",
+      "Bash(date:*)",
+      "Bash(ls:*)",
+      "Bash(cat:*)"
+    ],
+    "deny": [
+      "PushNotification"
+    ]
+  }
+}
